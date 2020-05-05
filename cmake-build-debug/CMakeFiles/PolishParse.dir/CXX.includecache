@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/ExpressionTree.h
+TreeNode.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/TreeNode.h
+Stack.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/Stack.h
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/Node.h
+TreeNode.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/TreeNode.h
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/Stack.h
+Node.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/Node.h
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/TreeNode.h
+
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+include/ExpressionTree.h
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/include/ExpressionTree.h
+

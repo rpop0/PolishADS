@@ -1,0 +1,3 @@
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/poprosian/Desktop/University/Programming/C++/ADS/PolishParse/cmake-build-debug/CMakeFiles/PolishParse.dir
